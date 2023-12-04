@@ -1,7 +1,7 @@
 # Color Palette Generator
 
 ## Demo
-Demo Video: <URL>
+Demo Video: <https://youtu.be/1shSVTwT6AU>
 
 ## GitHub Repository
 GitHub Repo: <URL>
