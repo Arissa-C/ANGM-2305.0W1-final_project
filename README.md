@@ -20,3 +20,6 @@ project.py (contains the code for my program)
 proposal.md (contains my original project proposal)
 requirements.txt(contains the required libraries I used for the project)
 
+A Resource that helped me come up with ways to program for my project:
+<https://www.youtube.com/watch?v=thZLa5tkzYc>
+
