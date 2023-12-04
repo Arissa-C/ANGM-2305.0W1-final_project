@@ -17,14 +17,17 @@ I know for a fact that future design considerations would include the presets fo
 
 Some future areas of improvement for me as a programmer would be reading documentation in its entirety and making sure I understand the documentation I just read. That was an obstacle that made working on this project even more difficult. Also starting on a project as soon as possible would be a good idea next time, that way I won't need to rush things. Additionally, I should consider time constraints more often and consider what is tangible for me to achieve in the given amount of time, rather than thinking I'll get everything done quickly so I'll add as much as I want. For the program itself, I'd say optimizing the program better to function smoother because there were a lot of moments where it lagged *really* badly. Also utilizing more mouse inputs would be a big step of improvement for the future because it was a struggle trying to get the few mouse inputs I implemented to work properly. If I were to get a better grasp on using them for specific surfaces, objects, and sprites I could add as many mouse inputs into the program as I want and utilize multiple selectors for the program similar to Color Adobe.
 
-**The src folder should contain all of my files for the project, which means it should have:**
+**The repository should contain all of my files for the project, which means it should have:**
 
-**project.py (contains the code for my program)**
+**project.py (contains the code for my program, it is inside of the src folder)**
 
 **proposal.md (contains my original project proposal)**
 
 **requirements.txt(contains the required libraries I used for the project)**
 
-A Resource that helped me come up with ways to program for my project:
+**README.md(contains the video link, repository link, and details about the project)**
+(*it's also the document your reading right now*)
+
+A Resource that helped me for my project:
 <https://www.youtube.com/watch?v=thZLa5tkzYc>
 
